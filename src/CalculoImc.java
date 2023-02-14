@@ -14,5 +14,7 @@ public class CalculoImc {
     Double resultadoImc = peso / (altura * altura);
 
     System.out.println("Seu IMC é de: " + resultadoImc);
+
+    scanner.close();
   }
 }
