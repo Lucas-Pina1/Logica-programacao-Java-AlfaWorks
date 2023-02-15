@@ -12,5 +12,7 @@ public class TiposNumericos {
 
     Double numeroDouble = 1.0;
 
+    System.out.println(numeroByte, numeroShort, numeroInteger, numeroLong, numeroFloat, numeroDouble);
+
   }
 }
