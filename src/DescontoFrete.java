@@ -12,7 +12,7 @@ public class DescontoFrete {
     Boolean freteGratis = valorProduto >= 100;
 
     double valorTotal = valorProduto + frete;
-
+//test
     if (freteGratis) {
       frete = 0;
       double valorTotalFreteGratis = valorProduto + frete;
