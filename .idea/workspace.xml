@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b74760e5-ab83-4c91-82ee-6dbee2291df2" name="Changes" comment="Ajustes" />
+    <list default="true" id="b74760e5-ab83-4c91-82ee-6dbee2291df2" name="Changes" comment="Ajustes">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OperadoresLogicos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CalculadoraSimples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CalculadoraSimples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DescontoFrete.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DescontoFrete.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,10 +31,31 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "//wsl$/Ubuntu-20.04/home/lucaspina/Workspace/Java/AlfaWorks/CursoLogicaCapitulo02"
+    "last_opened_file_path": "//wsl$/Ubuntu-20.04/home/lucaspina/.ssh/id_rsa.pub",
+    "settings.editor.selected.configurable": "vcs.Subversion.SSH"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="CursoLogicaCapitulo02" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="CursoLogicaCapitulo02" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\lucas\AppData\Roaming\Subversion</configuration>
+    <option name="sshConnectionType" value="PRIVATE_KEY" />
+    <option name="sshPrivateKeyPath" value="\\wsl$\Ubuntu-20.04\home\lucaspina\.ssh\id_rsa.pub" />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="b74760e5-ab83-4c91-82ee-6dbee2291df2" name="Changes" comment="" />

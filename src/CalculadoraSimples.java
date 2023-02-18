@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class CalculadoraSimples {
-    public static void main(String[] args) {
+    public static <Integer> void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
         System.out.print("Digite o primeiro(inteiro) numero da operação: ");
