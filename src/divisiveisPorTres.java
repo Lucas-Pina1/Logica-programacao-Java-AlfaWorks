@@ -11,5 +11,16 @@ public class divisiveisPorTres {
       }
     }
     System.out.println("Fim!");
+
+    // int contador = 0;
+    // while (contador < numeros.length) {
+    // Integer numero = numeros[i];
+    // Integer moduloPorTres = numero % 3;
+
+    // if (moduloPorTres.equals(0)) {
+    // System.out.println("Numero " + numero + " é divisivel por 3.");
+    // }
+    // i++;
+    // }
   }
 }
