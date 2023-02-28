@@ -10,20 +10,20 @@ public class SemanaQueMaisFaturou {
     Double maiorFaturamento = 0.0;
     Integer semanaGanhadora = null;
 
-    for (int i = 0; i < mes.length; i++) {
-      Double[] semana = mes[i];
+    for (int semana = 0; semana < mes.length; semana++) {
+      Double[] semanas = mes[semana];
 
       Double faturamentoSemana = 0.0;
 
-      for (int j = 0; j < semana.length; j++) {
-        faturamentoSemana += semana[j];
+      for (int dia = 0; dia < semanas.length; dia++) {
+        faturamentoSemana += semanas[dia];
       }
 
       Boolean esseFaturamentoEOMaior = faturamentoSemana > maiorFaturamento;
 
       if (esseFaturamentoEOMaior) {
         maiorFaturamento = faturamentoSemana;
-        semanaGanhadora = i + 1;
+        semanaGanhadora = semana + 1;
       }
     }
     System.out
