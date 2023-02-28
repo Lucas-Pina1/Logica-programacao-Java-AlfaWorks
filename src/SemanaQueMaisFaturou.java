@@ -11,7 +11,7 @@ public class SemanaQueMaisFaturou {
     Integer semanaGanhadora = null;
 
     for (int i = 0; i < mes.length; i++) {
-      Double[] semana = mes[1];
+      Double[] semana = mes[i];
 
       Double faturamentoSemana = 0.0;
 
