@@ -20,4 +20,6 @@ public class VetoresDe1Dimensao {
     scanner.close();
   }
 
+  // teste
+
 }
